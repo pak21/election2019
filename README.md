@@ -20,7 +20,7 @@ In reality, I didn't get a chance to do anything on election night. That said...
 
 ## Grand coalition analysis
 
-Two scripts here to support a blog post I'm about to write:
+Two scripts here to support a [blog post I've written](https://jorallan.dreamwidth.org/6644.html):
 
 * `bbc-scraper.py`: scrape the 2019 results from the BBC website and stick them
 in an SQL database.
